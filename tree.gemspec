@@ -20,4 +20,5 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'leaf', '~> 0.0.1'
   spec.add_dependency 'twig', '~> 0.0.1'
+  spec.add_dependency 'branch', '~> 0.0.1'
 end
